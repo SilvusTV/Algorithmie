@@ -1,0 +1,54 @@
+
+=== TRI PAR PRIX (100 éléments) ===
+Tri SÉLECTION par PRIX : 0.000183s | 4851 comparaisons | 94 échanges
+Tri INSERTION par PRIX : 0.000184s | 2471 comparaisons | 2377 décalages
+Tri FUSION par PRIX : 0.000104s | 538 comparaisons
+Tri RAPIDE par PRIX : 6.9e-05s | 627 comparaisons | 326 échanges
+
+=== TRI PAR SURFACE (100 éléments) ===
+Tri SÉLECTION par SURFACE : 0.000187s | 4851 comparaisons | 94 échanges
+Tri INSERTION par SURFACE : 0.000142s | 1937 comparaisons | 1841 décalages
+Tri FUSION par SURFACE : 0.000109s | 527 comparaisons
+Tri RAPIDE par SURFACE : 7.6e-05s | 746 comparaisons | 342 échanges
+
+=== RECHERCHES (100 éléments) ===
+Recherche linéaire MAISONS PARIS : 9e-06s | 99 comparaisons | Trouvées: 5
+Recherche binaire PRIX 350000€ : 2e-06s | 6 comparaisons | Position: 50
+Min/Max PRIX_M2 : 5e-06s | 196 comparaisons | Min: 1312€/m² | Max: 11702€/m²
+Recherche APPART 3P : 9e-06s | 99 comparaisons | Trouvés: 27
+
+=== TRI PAR PRIX (500 éléments) ===
+Tri SÉLECTION par PRIX : 0.005062s | 124251 comparaisons | 495 échanges
+Tri INSERTION par PRIX : 0.005318s | 66911 comparaisons | 66417 décalages
+Tri FUSION par PRIX : 0.000627s | 3852 comparaisons
+Tri RAPIDE par PRIX : 0.000529s | 5011 comparaisons | 2382 échanges
+
+=== TRI PAR SURFACE (500 éléments) ===
+Tri SÉLECTION par SURFACE : 0.004889s | 124251 comparaisons | 489 échanges
+Tri INSERTION par SURFACE : 0.004806s | 60922 comparaisons | 60426 décalages
+Tri FUSION par SURFACE : 0.000603s | 3841 comparaisons
+Tri RAPIDE par SURFACE : 0.000591s | 7134 comparaisons | 1934 échanges
+
+=== RECHERCHES (500 éléments) ===
+Recherche linéaire MAISONS PARIS : 3.6e-05s | 499 comparaisons | Trouvées: 10
+Recherche binaire PRIX 350000€ : 2e-06s | 5 comparaisons | Position: 295
+Min/Max PRIX_M2 : 2.2e-05s | 996 comparaisons | Min: 985€/m² | Max: 12777€/m²
+Recherche APPART 3P : 3.5e-05s | 499 comparaisons | Trouvés: 60
+
+=== TRI PAR PRIX (1000 éléments) ===
+Tri SÉLECTION par PRIX : 0.019891s | 498501 comparaisons | 993 échanges
+Tri INSERTION par PRIX : 0.022243s | 252919 comparaisons | 251925 décalages
+Tri FUSION par PRIX : 0.00132s | 8693 comparaisons
+Tri RAPIDE par PRIX : 0.001268s | 13196 comparaisons | 5716 échanges
+
+=== TRI PAR SURFACE (1000 éléments) ===
+Tri SÉLECTION par SURFACE : 0.018702s | 498501 comparaisons | 988 échanges
+Tri INSERTION par SURFACE : 0.019203s | 241162 comparaisons | 240166 décalages
+Tri FUSION par SURFACE : 0.001276s | 8691 comparaisons
+Tri RAPIDE par SURFACE : 0.001474s | 19154 comparaisons | 4847 échanges
+
+=== RECHERCHES (1000 éléments) ===
+Recherche linéaire MAISONS PARIS : 7.3e-05s | 999 comparaisons | Trouvées: 17
+Recherche binaire PRIX 350000€ : 2e-06s | 7 comparaisons | Position: 600
+Min/Max PRIX_M2 : 4.5e-05s | 1996 comparaisons | Min: 985€/m² | Max: 13785€/m²
+Recherche APPART 3P : 7.2e-05s | 999 comparaisons | Trouvés: 91
